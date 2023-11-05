@@ -18,3 +18,6 @@ While the application's code is not open-source, my goal is to make it accessibl
 - **Open Request Form**: Quickly generate a request form with pre-filled guest details, simplifying the process of inviting visitors.
 
 You can check out the demo video in this repository to see the system in action.
+
+
+![Demo Video](demo.gif) <https://drive.google.com/file/d/1CC2dw7r_7oIWsa0PtYeLFY1vmN4kvg4C/view?usp=drive_link>
