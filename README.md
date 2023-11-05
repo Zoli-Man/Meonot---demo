@@ -20,4 +20,8 @@ While the application's code is not open-source, my goal is to make it accessibl
 You can check out the demo video in this repository to see the system in action.
 
 
-![Demo Video](demo.gif) <https://drive.google.com/file/d/1CC2dw7r_7oIWsa0PtYeLFY1vmN4kvg4C/view?usp=drive_link>
+## Video
+
+
+https://github.com/Zoli-Man/Meonot---demo/assets/132370888/aff6f5b1-06c5-4d2c-9349-361a9764bd70
+
