@@ -17,12 +17,11 @@ While the application's code is not open-source, my goal is to make it accessibl
 
 - **Open Request Form**: Quickly generate a request form with pre-filled guest details, simplifying the process of inviting visitors.
 
-check out the demo video to see the system in action.
 
 
-## Deomo
+## Demo
 
-
+Check out the demo video to see the system in action:
 
 https://github.com/Zoli-Man/Meonot---demo/assets/132370888/22562306-4dd3-42ae-8146-a7cc06910044
 
